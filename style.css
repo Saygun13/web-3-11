@@ -31,7 +31,7 @@
 	font-size:150%;
 	font-weight:400;
 	padding-left: 50px;
-	background-image: url('header.jpg');
+	background-image: url(media/header.jpg);
 	}
 	
 	#footerabout{
@@ -44,11 +44,11 @@
 	font-size:150%;
 	font-weight:400;
 	padding-left: 50px;
-	background-image: url('header.jpg');
+	background-image: url(media/header.jpg);
 	}
 		
 	#Header{
-	background-image: url('header.jpg');
+	background-image: url(media/header.jpg);
 	}
 	
 	.col-md-12 h1{
